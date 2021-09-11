@@ -1572,3 +1572,8 @@ html {
     justify-content: space-around;
   }
 }
+@media (min-width: 1367px) {
+  .main-mavic__inner{
+    margin:0 0 100px 0;
+  }
+}
